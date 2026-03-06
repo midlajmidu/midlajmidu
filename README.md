@@ -47,22 +47,7 @@ Currently exploring:
 
 ---
 
-## 📌 Featured Project
 
-### 🏫 Alif Global School Website
-
-Developed and deployed a **fully dynamic school website**.
-
-Key work:
-
-- Rebuilt entire platform from **WordPress → React**
-- Implemented **Google Sheets as CMS**
-- Integrated **Google Drive for file storage**
-- Designed system architecture
-- Managed **full lifecycle: coding → development → deployment**
-- Maintaining the production website
-
----
 
 ## 📚 Certifications
 
