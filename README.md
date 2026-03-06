@@ -1,75 +1,114 @@
-# Hi, I'm Muhammed Midlaj 👋
+# 👋 Hi, I'm Muhammed Midlaj
 
-💻 Developer interested in building real-world technology with **Web Development, AI, and Scalable Systems**.
-
-I enjoy taking ideas from **concept → development → deployment**, building complete products that people can actually use.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+LLM+Explorer;Building+Real+World+Software;From+Idea+to+Deployment" />
+</p>
 
 ---
 
-## 🚀 What I Do
+## 🚀 About Me
 
-- Full Stack Web Development
-- AI & Large Language Model (LLM) Applications
-- SaaS Platform Development
-- Automation & System Architecture
-- Deploying and managing production applications
+💻 Developer passionate about building **real-world technology and scalable systems**.
+
+I enjoy turning ideas into **fully working products**, managing everything from:
+
+**Planning → Coding → Development → Deployment → Maintenance**
+
+Recently I developed and deployed the **official website for Alif Global School**, rebuilding their platform from **WordPress into a fully dynamic React-based system** integrated with **Google Sheets and Google Drive**.
+
+Currently exploring:
+
+- Artificial Intelligence
+- Large Language Models (LLMs)
+- AI-powered SaaS platforms
+- Scalable web systems
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
-- React
-- JavaScript
-- HTML / CSS
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3)
 
-**Backend & Tools**
-- Python
-- Node.js
-- REST APIs
+### Backend & Tools
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python)
+![NodeJS](https://img.shields.io/badge/NodeJS-20232A?style=for-the-badge&logo=node.js)
+![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
+
+### Cloud & APIs
 - Google Sheets API
 - Google Drive API
-
-**DevOps & Deployment**
-- Docker
-- Git & GitHub
-- Cloud Hosting
+- REST APIs
+- Cloud deployment
 
 ---
 
-## 📌 Featured Work
+## 📌 Featured Project
 
-### Alif Global School Website
-Developed and deployed a **fully dynamic website** for Alif Global School.
+### 🏫 Alif Global School Website
 
-- Rebuilt the entire platform from **WordPress to a custom React system**
-- Integrated **Google Sheets for content management**
-- Used **Google Drive for document and file handling**
-- Managed the full lifecycle: **coding → development → deployment → maintenance**
+Developed and deployed a **fully dynamic school website**.
+
+Key work:
+
+- Rebuilt entire platform from **WordPress → React**
+- Implemented **Google Sheets as CMS**
+- Integrated **Google Drive for file storage**
+- Designed system architecture
+- Managed **full lifecycle: coding → development → deployment**
+- Maintaining the production website
 
 ---
 
-## 📚 Learning & Interests
+## 📚 Certifications
 
-Currently exploring:
+📜 **AI Fluency: Framework & Foundations**  
+Anthropic Education — 2026
 
-- Large Language Models (LLMs)
-- AI system design
-- AI-powered SaaS tools
-- Scalable backend systems
+Focused on:
 
-Recently completed:
+- AI system thinking
+- LLM capabilities and limitations
+- Responsible AI usage
 
-**AI Fluency: Framework & Foundations**  
-Anthropic Education
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=midlajmidu&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midlajmidu&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=midlajmidu&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- LinkedIn: *(add your LinkedIn link here)*
-- GitHub: https://github.com/yourusername
+- LinkedIn: https://linkedin.com/in/midlajmj
+- GitHub: https://github.com/midlajmidu
+- Email: midlajmidu910@gmail.com
 
 ---
 
-⭐ I enjoy building useful tools, learning new technologies, and experimenting with AI-driven systems.
+## 👀 Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=midlajmidu&color=blue)
+
+---
+
+⭐ Always building, learning, and experimenting with **AI and scalable software systems**.
