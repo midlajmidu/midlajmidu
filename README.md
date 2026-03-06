@@ -1,98 +1,116 @@
 # 👋 Hi, I'm Muhammed Midlaj
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Python+%7C+Django+Developer;AI+%26+LLM+Explorer;Building+Real+World+Software" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Python+%7C+Node.js+Developer;React+Developer;AI+%26+LLM+Explorer;Building+Real+World+Software" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=midlajmidu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=midlajmidu&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-💻 Developer passionate about building **real-world software and scalable systems**.
+Full Stack Engineer building **web platforms, APIs, and AI-powered systems**.
 
-I enjoy taking projects from **idea → development → deployment**, building complete working systems.
+I enjoy taking projects from:
 
-Recently I developed and deployed the **official website for Alif Global School**, rebuilding their platform from **WordPress to a dynamic React-based system** integrated with **Google Sheets and Google Drive** for content and file management.
+**Idea → Coding → Development → Deployment → Production**
 
-Currently exploring:
+Currently focusing on:
 
-- Artificial Intelligence
-- Large Language Models (LLMs)
-- AI-powered SaaS platforms
-- Scalable cloud applications
+- AI research  
+- AI product development  
+- LLM based systems  
+- scalable SaaS platforms  
 
 ---
 
 # 🛠 Tech Stack
 
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,nodejs" />
+</p>
+
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css" />
+<img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,nodejs" />
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs" />
 </p>
 
-### Tools & DevOps
+### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux" />
 </p>
 
-### Cloud & APIs
-- Cloud Deployment  
-- REST APIs  
-- Google Sheets API  
-- Google Drive API  
+Additional tools
 
-### AI
-- Large Language Models (LLMs)
-- AI System Fundamentals
+- curl  
+- API debugging  
+- system integration  
 
 ---
 
-# 📌 Featured Work
+# ☁️ Cloud & Deployment
 
-### 🏫 Alif Global School Website
+<p>
+<img src="https://skillicons.dev/icons?i=aws,vercel" />
+</p>
 
-Developed and deployed a **fully dynamic school website**.
-
-Key contributions:
-
-- Rebuilt entire system **WordPress → React**
-- Implemented **Google Sheets as CMS**
-- Integrated **Google Drive for file storage**
-- Designed system architecture
-- Managed **full lifecycle: coding → development → deployment**
-- Maintaining production website
+- Render  
+- Cloud infrastructure  
+- Production deployments  
 
 ---
 
-# 📜 Certification
+# 🤖 AI
 
-**AI Fluency: Framework & Foundations**  
-Anthropic Education — 2026
+- Large Language Models (LLMs)  
+- AI system design  
+- AI product exploration  
 
-Focus areas:
-- AI system thinking
-- LLM capabilities and limitations
-- Responsible AI usage
+---
+
+# 💼 Experience
+
+### Full Stack Engineer  
+**Arqgene · Internship**  
+Dec 2025 – Mar 2026 · 4 months  
+Vellore, Tamil Nadu, India · On-site
+
+- Developed backend services and APIs  
+- Built REST APIs using **FastAPI**  
+- Worked on full-stack system development  
+
+---
+
+### Web Developer  
+**Alif Global School · Part-time**  
+Sep 2025 – Mar 2026 · 7 months  
+Kozhikode, Kerala, India · Hybrid
+
+- Built and deployed the **official school website**
+- Migrated system from **WordPress → React**
+- Implemented **Google Sheets CMS**
+- Integrated **Google Drive file management**
+- Managed full **development → deployment lifecycle**
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=midlajmidu&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=midlajmidu&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midlajmidu&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midlajmidu&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -105,12 +123,20 @@ Focus areas:
 
 ---
 
-# 🌐 Connect With Me
+# 🐍 Contribution Snake
 
-📧 Email: **midlajmidu910@gmail.com**  
-💼 LinkedIn: **https://linkedin.com/in/midlajmj**  
-💻 GitHub: **https://github.com/midlajmidu**
+<p align="center">
+<img src="https://raw.githubusercontent.com/midlajmidu/midlajmidu/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
-⭐ Always learning and building in **AI, SaaS, and scalable web systems**.
+# 🌐 Connect With Me
+
+📧 **Email:** midlajmidu910@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/midlajmj  
+💻 **GitHub:** https://github.com/midlajmidu  
+
+---
+
+⭐ Currently building and experimenting with **AI systems, APIs, and scalable cloud software**.
